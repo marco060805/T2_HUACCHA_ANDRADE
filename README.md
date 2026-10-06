@@ -12,3 +12,6 @@ Evaluación 02 - Lenguaje de Programación II - Ciclo 4 - Sección T4MO
 
 ## Control de cambios
 En esta etapa se practico el manjo del working directory y el staging area con git: modificar archivos, revisar diferencias preparar y descartar cambios.
+
+## Gestión de ramas
+Rama utilizada: feature-huaccha. En esta rama se agregó la clase ControlVersion_Huaccha, que muestra en consola un mensaje de identificación del estudiante.
