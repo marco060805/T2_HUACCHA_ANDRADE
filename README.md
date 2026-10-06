@@ -6,3 +6,6 @@
 
 ## Descripción
 Repositorio del proyecto Maven de la Evaluación 02, creado para practicar el control de versiones con Git y GitHub.
+
+## Evidencia T2
+Evaluación 02 - Lenguaje de Programación II - Ciclo 4 - Sección T4MO
